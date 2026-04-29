@@ -20,7 +20,7 @@ main() {
   bool ehCaro = false;
 
   print(ehFragil && ehCaro); // AND -> E
-  print(ehFragil || ehCaro); // OR -> OU
+  //print(ehFragil || ehCaro); // OR -> OU
   print(ehFragil ^ ehCaro); // XOR -> OU Exclusivo
   print(!ehFragil); // NOT -> Unário/Prefix
   print(!!ehCaro);
