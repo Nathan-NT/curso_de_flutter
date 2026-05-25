@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: .fromSeed(seedColor: Colors.blueAccent),
         useMaterial3: true
       ),
-      home: CalculatorPage(),
+      home: CalculatorPage(), 
     );
   }
 }
